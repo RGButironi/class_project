@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+    
+<style>
+
+* {
+    
+    text-decoration: none;
+    color: white; 
+}
+    
+.main-nav {
+    background-color: mediumpurple;
+}    
+    
+.main-nav {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    list-style: none;
+}
+
+.ddtext {
+    display: none;
+    /*position: absolute;*/
+    }
+    
+.file:hover .ddtext{
+    display: block;
+  }
+    
+.file {
+    display: inline-block;
+    position: relative;
+    
+    }
+    
+</style>
+    
+    
+<body>
+
+    <nav>
+        <div class="main-nav">
+            <div class="file">
+                <a href="#">File</a>
+                <div class="ddtext">
+                    <a href="#">Open</a>
+                    <a href="#">Save</a>
+                    <a href="#">Print</a>
+                    <a href="#">Exit</a>
+                </div>
+                
+            </div>
+                <div class="file">
+        <a href="#">Edit</a>
+          <div class="ddtext">
+            <a href="#">Copy</a>
+            <a href="#">Cut</a>
+            <a href="#">Paste</a>
+            <a href="#">Format</a>
+                </div>
+            </div>
+        <div class="file">
+        <a href="#">File</a>   
+          <div class="ddtext">
+            <a href="#">Open</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+
+
+</body>
+</html>
