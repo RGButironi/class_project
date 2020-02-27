@@ -1,6 +1,6 @@
 
-![Alt text](./me.jpg)
-<img src="./me.jpg">
+![Picture of author](./me.jpg)
+
 
 # My background and motivation.
 In fall 20xx I entered my senior year of my bachelor’s in Philosophy at SUNY Binghamton, and for a brief period of time I worked under professor Nicole Hassoun, an assistant professor of Philosophy at Binghamton, and the founder of the website global-health-impact.org. The purpose of Dr. Hassoun’s website is to create a rating index for life-saving drugs that measures their impact on health in developing countries across the globe. Ultimately, her project aims to incentivize pharmaceutical companies to increase their humanitarian impact. Professor Hassoun’s project inspired me, however, it also made me realize just how crucial a good website is to nearly any project with an aim to impact the world, and how ignorant I was in regard to web development and the field of computer science at large. Several years and programming courses in Python and Java later and I was starting a masters in computer science. At present I have completed 9 credit hours of CS classes at New Paltz, covering topics in data structures, Java, assembly language, and databases, and an online course in HTML and CSS.
