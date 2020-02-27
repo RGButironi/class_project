@@ -2,10 +2,10 @@
   <div id="app">
     
       
-    </div>
+    
     <MyNav></MyNav>
     <router-view/>
- 
+  </div>
 </template>
 <script>
 import MyNav from "@/components/Nav.vue";
